@@ -1,10 +1,9 @@
 # DeepKart64
 
-[Devpost Submission](https://devpost.com/software/deepkart64)
+
 
 ## About
 
-This repository is for DeepKart64, our final project for CSCI 1470 - Deep Learning at Brown University. Developed by Floria Tsui, Kyle Reyes, Nick Young, and Raj Paul, DeepKart64 is a deep reinforcement learning agent that plays Mario Kart 64 on the Nintendo 64. It is an A2C model that uses convolutional layers to interpret game visuals and outputs instructions in a discrete action space. Learn more in our [Devpost Submission](https://devpost.com/software/deepkart64)!
 
 ## Getting Started
 
@@ -64,9 +63,3 @@ The `utils.py` file is where we define some useful helper functions to export vi
 
 The env wrapper was provided by the [gym-mupen64plus repo](https://github.com/bzier/gym-mupen64plus)
 
-## Contributors
-
--   [Floria Tsui](https://github.com/floriatsui)
--   [Kyle Reyes](https://github.com/kylewreyes)
--   [Nick Young](https://github.com/n-young)
--   [Raj Paul](https://github.com/rpaul48)
