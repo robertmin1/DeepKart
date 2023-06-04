@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-To get started, run:
+To get started, run: 
 
 ```bash
 docker build -t <image_name> .
